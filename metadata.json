@@ -1,6 +1,0 @@
-{
-  "name": "BigBasket Capstone Repository",
-  "description": "BigBasket Data Analytics Capstone Workspace",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
