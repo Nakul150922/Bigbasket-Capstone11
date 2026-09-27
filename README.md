@@ -115,4 +115,4 @@ The `analysis.ipynb` notebook implements a comprehensive 25-cell exploratory and
 Refer to `ai_log.md` for the complete record of RCTCF prompts, operational tool steps, and verification checkpoints.
 
 ## Submission Notes
-This repository contains the complete capstone submission. The Tableau Public URL placeholder `[TABLEAU_PUBLIC_URL_TO_BE_ADDED]` must be replaced with the final published URL prior to final evaluation.
+This repository contains the complete capstone submission. The Tableau Public URL placeholder `(https://public.tableau.com/app/profile/nakul.hadda/viz/BigBasketSalesPerformanceDashboard/Dashboard1)` must be replaced with the final published URL prior to final evaluation.
